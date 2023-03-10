@@ -1,0 +1,92 @@
+body {
+    color:darkslategrey;
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+h1, h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: darkslategrey;
+}
+
+h1 {
+    color: darkslategrey;
+    text-decoration: overline;
+}
+
+.btn-salmon {
+    text-decoration: none;
+    background-color: bisque;
+    padding: 15px 20px;
+    color: rgb(169, 52, 72);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    border-radius: 4px;
+    text-align: center;
+}
+
+.btn-salmon:hover {
+    background-color: darkslategrey;
+}
+
+img {
+    height: 150px;
+    border-radius: 50%;
+}
+
+p {
+    color: brown;
+    line-height: 1.6;
+}
+
+#intro {
+    margin-bottom: 40px;
+}
+
+img {
+    text-align: center;
+    height: 150px;
+    border-radius: 50%;
+}
+
+.card-white {
+    border-radius: 4px;
+    padding: 40px;
+    background-color: rgba(222, 184, 135, 0.344);
+    text-align: center;
+    margin: 60px;
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 30;
+}
+
+.container {
+    width: 800px;
+    margin: 20px auto;
+    padding: 40px 20px;
+    background-color: aliceblue;
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: darkslateblue;
+}
+
+p {
+    color: darkslateblue;
+    text-align: center;
+}
+/* 
+div {
+    border-radius: 4px;
+    padding: 40px;
+    background-color: aliceblue;
+    text-align: center;
+    
+}
+ */
